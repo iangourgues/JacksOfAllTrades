@@ -39,12 +39,12 @@ In developing this website, we used the following technologies and resources:
 
 ## Meet the Team:
 
-* Ian Gourgues: Login and Home page
+* Ian Gourgues: Login, Home page, and UI components. 
 * Zack Kramer: 30 Activities display list
 * Lilly Moreau: AWS Setup/Architecture Diagram/Integration
 * Alec Hodges: Account Database and Integration
 * Michael Carroll: List of activities in a database with resources
-* Brennan Butler: More activities in list from database/AWS UI components
+* Brennan Butler: More activities in list from database
 
 ## Information about the code
 Most of our graphics were intially created on figma which got converted to .jsx files in the ui-components. After converting those graphics, we went back through and manually modified them so they displayed information, properly linked, and flexed with the page dimensions changed.
